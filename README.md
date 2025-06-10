@@ -30,7 +30,7 @@ All support emails **MUST** include the appropriate tag in the subject line:
 | Bug Report       | `[BUG REPORT] Description`|
 | Account Issues   | `[ACCOUNT] Your Username` |
 
-**Send emails to:** [support@offline-social.com](mailto:support@offline-social.com)
+**Send emails to:** [offlinehelp2025@gmail.com](mailto:support@offline-social.com)
 
 ### 📎 Attachment Guidelines
 To help us resolve your issue faster:
